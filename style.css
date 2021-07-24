@@ -1,13 +1,13 @@
 body
 {
-	background-image: url("Maths\ Background.png");
+	background-image: url("Maths\ Quiz.png");
 	background-position: center;
     background-size: cover;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: white;
+		background: rgb(247, 159, 210);
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
@@ -29,10 +29,15 @@ body
 }
 #output
 {
-background: white;
+background: rgb(247, 159, 210);
 border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+h1
+{
+	color: darkslateblue;
 }
